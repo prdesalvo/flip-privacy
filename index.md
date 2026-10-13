@@ -33,6 +33,13 @@ Deleting the app removes its progress and settings. Because we hold no copy, the
 
 If this policy changes, we will update the date at the top of this page.
 
+## Credits
+
+Flip's puzzles were built from these word lists:
+
+- Word frequencies from [wordfreq](https://github.com/rspeer/wordfreq) by Robyn Speer, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- The web2 word list (public domain) and the GNU Collaborative International Dictionary of English (GCIDE).
+
 ## Support
 
 Questions about Flip or this policy can be sent to: talus.llano-3k@icloud.com
