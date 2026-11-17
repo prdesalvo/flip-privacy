@@ -1,25 +1,31 @@
 # Flip Privacy Policy
 
-_Last updated: October 13, 2026_
+_Last updated: November 17, 2026_
 
-Flip is a daily word game: three scrambled words a day, solved by flipping runs of letters. This policy explains what the app does with your information. The short version: everything stays on your device, and we never see it.
+Flip is a daily word game: three scrambled words a day, solved by flipping runs of letters. This policy explains what the app does with your information. Your game progress stays on your device. We do not collect it.
 
 ## What we collect: nothing.
 
-Flip has no accounts, no servers, no analytics, no advertising, and no third-party trackers. The app makes no network requests. We (the developer) cannot see your games, your scores, or your streaks.
+Flip has no accounts, no servers, no analytics, no advertising, and no third-party trackers. Daily puzzles are bundled with the app and can be played offline. Starting with version 1.1.0, optional Flip Pro purchases and purchase restoration use Apple's App Store services. We (the developer) cannot see your games, your scores, or your streaks.
 
 ## What stays on your device
 
 Flip keeps the following on your device so it can remember your game:
 
-- **Game progress** — today's round in progress, your results for each day, and your streak. It is stored in a container shared only between the Flip app and its own Home Screen widget, so the widget can show and play today's first word.
+- **Game progress** — today's round in progress, daily results and streaks, and saved archive rounds in versions that support the archive. It is stored in a container shared only between the Flip app and its own Home Screen widget, so you can play today's round in either place.
 - **Settings** — whether haptics are on, and whether you have seen the tutorial.
 
-None of this leaves your device. It is not synced to iCloud, sent to us, or shared with anyone.
+Flip does not upload this progress or these settings to us, and it does not provide cross-device progress sync. If you choose to share a score, the summary described below goes to the destination you select.
+
+## Optional purchases
+
+Starting with version 1.1.0, Flip Pro is an optional one-time purchase that unlocks available past daily rounds. Apple handles payment and purchase records under [Apple's privacy policy](https://www.apple.com/legal/privacy/). Flip uses Apple's verified transaction information on your device to check access, restore purchases, and support Family Sharing. We do not receive your payment card information.
+
+Restoring a purchase restores archive access. It does not restore device-local puzzle progress.
 
 ## Sharing your score
 
-When you tap Share after a round, Flip hands a short text summary (the round number, your score and three colored squares) to Apple's share sheet. You choose where it goes, and Flip sees nothing after that.
+When you tap Share after a round, Flip hands a short text summary (the puzzle number, score and flip marks, plus the date for archive play) to Apple's share sheet. You choose where it goes, and Flip sees nothing after that.
 
 ## Children
 
@@ -27,7 +33,7 @@ Flip collects no personal information from anyone, including children.
 
 ## Deleting your information
 
-Deleting the app removes its progress and settings. Because we hold no copy, there is nothing for us to export or delete on our side.
+Deleting the app removes its progress and settings. Because we hold no copy, there is nothing for us to export or delete on our side. Deleting Flip does not remove Apple's record of a Flip Pro purchase.
 
 ## Changes to this policy
 
